@@ -1,0 +1,38 @@
+body {
+	background-image: url(background1.jpg);
+}
+
+#main {
+	background-image: url(jukebox.gif);
+	background-size: cover;
+	width: 620px;
+	height: 600px;
+	color: purple;
+	margin: 50 auto;
+	text-align: center;
+	border: solid 4px purple;
+	border-radius: 20px;
+	box-shadow: 15px 15px 5px black;
+}
+
+#songs {
+	margin: 317px auto 0px;
+	height: 168px;
+	width: 340px;
+	background-color: pink;
+}
+
+h1, h2 {
+	padding-top: 30px;
+}
+
+.controls {
+	margin-top: 21px;
+	height: 30px;
+	width: 67px;
+	background-color: pink;
+	border: solid 3px black;
+	font-size: 11px;
+	font-weight: bold;
+	color: purple;
+}
