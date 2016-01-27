@@ -1,5 +1,6 @@
 body {
 	background-image: url(background.jpg);
+	overflow: hidden;
 }
 
 #main {
@@ -8,7 +9,7 @@ body {
 	width: 620px;
 	height: 600px;
 	color: purple;
-	margin: 50 auto;
+	margin: 45px auto;
 	text-align: center;
 	border: solid 4px purple;
 	border-radius: 20px;
